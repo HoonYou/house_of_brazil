@@ -21,11 +21,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Data / model artifacts
-data/
-models/
-reports/
-
 # Logs / temp
 *.log
 *.tmp
